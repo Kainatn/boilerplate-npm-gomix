@@ -1,18 +1,12 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Kainat",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"engines": {
-		"node": "8.11.2"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://online.holdings/backend.io"
-	}
+  "name": "boilerplate-npm-gomix",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kainat",
+  "license": "ISC"
 }
